@@ -7,6 +7,7 @@ It uses **OpenCV (cv2)** to detect image features, compute **Fundamental** and *
 
 ## Input
 
+Please contact abhirupdasgupta14@gmail.com for dataset used in code.
 The program takes as input:
 - A directory of images
 - An output directory for saving results
@@ -49,4 +50,4 @@ Each image pair produces several outputs in the specified `output_directory`:
 ```bash
 python script.py <image_directory> <output_directory>
 
-Please contact abhirupdasgupta14@gmail.com for dataset used in code.
+
