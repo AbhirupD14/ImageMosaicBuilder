@@ -48,3 +48,5 @@ Each image pair produces several outputs in the specified `output_directory`:
 
 ```bash
 python script.py <image_directory> <output_directory>
+
+Please contact abhirupdasgupta14@gmail.com for dataset used in code.
